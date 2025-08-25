@@ -4,6 +4,10 @@ resume.pdf
 applied_jobs.json
 applied_jobs.log
 skipped_log.csv
+hr_contact_log.txt
+external_apply_log.csv
 
 # Python cache and temporary files
 __pycache__/
+# virtual environment
+venv/

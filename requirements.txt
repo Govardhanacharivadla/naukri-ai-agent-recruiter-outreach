@@ -1,5 +1,8 @@
-selenium
+playwright
 pandas
 beautifulsoup4
-google-generativeai
+google-genai
 python-dotenv
+requests
+pdfplumber
+

@@ -1,0 +1,39 @@
+{
+  "naukri_email": "your email_id",
+  "naukri_password": "your password",
+  "roles": [
+    "Python Developer",
+    "Software Engineer",
+    "Backend Developer",
+    "Full Stack Developer",
+    "Data Analyst",
+    
+    
+    
+    "Java Developer",
+    "Fresher Software Developer"
+  ],
+  "locations": [
+    "Hyderabad",
+    "Bangalore"
+    
+  ],
+  "experience": "0-1",
+  "resume_path": "your resume docx",
+  "keywords": [
+    "Python",
+    "Django",
+    "Flask",
+    "SQL",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Data Science",
+    "NLP",
+    "Deep Learning",
+    "REST API",
+    "AWS"
+  ],
+  "headless": false,
+  "apply_pacing_seconds_min": 5,
+  "apply_pacing_seconds_max": 15
+}
